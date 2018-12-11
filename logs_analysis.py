@@ -59,7 +59,7 @@ def print_error_results(err_results):
     for i in range(len(err_results)):
         d = err_results[i][0]
         perc = err_results[i][1]
-        print("%s - %.1f %%" % (d, perc))
+        print("\t" + "%s - %.1f %%" % (d, perc))
     print("\n")
 
 
