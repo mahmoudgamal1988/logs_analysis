@@ -1,6 +1,6 @@
 # Logs Analysis
 
-Udaicty Full Stack Nanodegree's 3rdd Project, Reporting\Logs_Analysis tool.
+Udaicty Full Stack Nanodegree's 3rd Project, Reporting\Logs_Analysis tool.
 
 ## Description
 
